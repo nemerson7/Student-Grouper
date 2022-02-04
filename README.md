@@ -1,6 +1,6 @@
 # Student-Grouper
-Program for grouping students based off of academic performance
-The goal of this program is to group students into new groups based off of both quiz score and team evaluation in order to incentivize group contribution and quiz performance
+- Program for grouping students based off of academic performance
+- The goal of this program is to group students into new groups based off of both quiz score and team evaluation in order to incentivize group contribution and quiz performance
 
 
 process_data.py contains weight parameters quiz_weight, group_weight, and random_weight
